@@ -266,3 +266,7 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python
+
+# Do I need to add the wiki to the main repo if it is a repo itself?
+wiki/
+.gitmodules
