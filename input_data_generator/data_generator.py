@@ -316,6 +316,6 @@ def generate_basket(products, product_id_lookup, cats):
     ]:
         product_id = product_id_lookup[product_category][item]
         basket.append(
-            {"product_id": product_id, "price": random.randint(1, 2000)}
+            {"product_id": product_id, "price": random.randint(1, 100)}
         )
     return basket
