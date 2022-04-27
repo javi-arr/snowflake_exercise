@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/snowflake_scripts/creating_shares.sql" dialect="Snowflake" />
+    <file url="file://$PROJECT_DIR$/snowflake_scripts/marketing_manager_sql/marketing_analysis.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/snowflake_scripts/new_wh_privileges.sql" dialect="Snowflake" />
+    <file url="PROJECT" dialect="Snowflake" />
+  </component>
+</project>
